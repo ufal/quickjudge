@@ -126,3 +126,6 @@ quickjudge --shuffle my_annotation --refs=in,ref outa outb
 ```
 
 This will shuffle not only all candidates for a segment but also all segments from the whole file. Simply instruct your annotators to do only the top n items of the ``.anot`` file.
+
+# Acknowledgement
+QuickJudge was developed within the EU project [EuroMatrix](http://www.euromatrix.net/) (FP6-IST-5-034291-STP).
